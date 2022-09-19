@@ -1,0 +1,51 @@
+body {
+    background-color:#9C9EFE;
+}
+.nav {
+background-color:#9C9EFE;
+padding: 10px;
+position: sticky;
+top: 0;
+}
+
+h1 {
+    color: #4a0e5c;
+     font-family: Marck Script ,cursive;
+    text-align: center;
+}
+p {
+    text-align: center;
+   
+}
+
+
+
+  .btn {
+    background-color: #9C9EFE;
+    border-radius: 12px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .btn:hover {
+    background-color: white;
+  }
+
+  .contact-message {
+    margin: 650px auto 60px;
+    width: 40%;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: white;
+  }
+  .btn:hover {
+    color: #bca3ca;
+  }
+
+ 

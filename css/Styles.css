@@ -1,0 +1,231 @@
+body {
+    background-color: #9C9EFE;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+  }
+  
+.middle-container {
+    margin:100%;
+    background-color: white;
+  }
+  .intro {
+    margin: auto;
+    width: 40%;
+  }
+.img {
+width: 35% 32;
+
+}
+
+/* navigation */
+.nav {
+    background-color:#9C9EFE;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+  }
+  /* navigation end */
+
+  /* Container Elements  */
+  .top-container {
+    background-color: #9C9EFE;
+    padding: 1px;
+    position: relative;
+    padding-bottom: 3px;
+    margin-right: 0px;
+  }
+  .middle-container {
+    margin: 100px 0;
+  }
+  
+  .bottom-container {
+    background-color: #9C9EFE;
+    padding: 10px 0 20px;
+  }
+  /* Container Elements End */
+  
+  /* Text Lines */
+h1 {
+    color: #4a0e5c;
+    font-family: 'Marck Script', cursive;
+    font-size: 7rem;
+    margin: 0 auto 0 auto;
+    padding-top: 150px;
+  }
+  
+  h2 {
+    color: #4a0e5c;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    color: #7c4789;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  h4 {
+    color: #7c4789;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  p {
+    line-height: 2;
+  }
+  
+  a {
+    color: #533483;
+    font-family: 'Poppins', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  .intro-row{
+    margin: 50px auto;
+    text-align: left;
+    width: 50%;
+  }
+  
+  .info-row {
+    margin: 50px auto;
+    text-align: left;
+    width: 50%;
+  }
+  
+  .info-row-one {
+    padding: 20px 0;
+  }
+  
+  .info-row-one-text {
+    margin-left: 25%;
+  }
+  
+  .info-row-two {
+    padding: 20px 0;
+  }
+  
+  .info-row-two-text {
+    margin-right: 25%;
+    text-align: right;
+  }
+  
+  .contact-message {
+    margin: 40px auto 60px;
+    width: 40%; 
+   }
+  /* text lines end */
+    /* Buttons */
+  .btn {
+    background-color: #9C9EFE;
+    border-radius: 12px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .btn:hover {
+    background-color: white;
+  }
+  ul {
+    list-style: none;
+    margin: auto;
+    padding-left: 0;
+    width: 50%;
+  }
+  
+  li {
+    padding: 5px;
+  }
+  .copyright-message {
+    color: white;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+    /* Buttons End */
+  
+    education.html
+  .edu-heading {
+    margin: auto;
+    width: 60%;
+  }
+  
+  .top-container-edu {
+    background-color: #dfd4e6;
+    padding: 50px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .edu-description-li {
+    padding: 10px;
+  }
+  
+  
+  /* Images */
+  .profile-img {
+    border-radius: 50%;
+  }
+  
+  .smile-face {
+    width: 40%;
+  }
+  
+  .laptop-gif {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+  }
+  
+  /* .dev-logo {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+  } */
+  
+  .smile-face {
+    float: left;
+    margin-left: 30px;
+    width: 35%;
+  }
+  
+  /* images-end */
+ 
+  /* Hover  */
+  
+  a:hover {
+    color: white;
+  }
+  .btn:hover {
+    color: #bca3ca;
+  }
+  
+  /* Hover End  */
+
+  p {
+    line-height: 2;
+  }
+  
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #bca3ca;
+    border-width: 5px;
+    margin: 80px auto;
+    width: 5%;
+  }
+  
+   ul {
+    list-style: none;
+    margin: auto;
+    padding-left: 0;
+    width: 50%;
+  }
+  
+  li {
+    padding: 5px;
+  } 
+   
